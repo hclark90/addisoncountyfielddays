@@ -28,14 +28,14 @@ CLASS FEE: $2.00 per class for the following (*) classes:
 - Steer and Ox Classes *3-*10.
 
 ### RULES
-1. Mail entries to: Hannah Clark, 1049 North Cream Hill Road, Shoreham, VT 05770. Entries
-must be received by July 18, 2019.
+1. Mail entries to: Hannah Shipman, 118 Johnston Road, Burke, NY 12917. Entries
+must be received by July 21, 2021.
 2. Enclose entry fee of $5.00 for each animal stabled and entered in OPEN SHOW. Make
-check payable to:
+check payable to: ACFFD
 3. Field Days assumes no responsibility for loss or damage to animals from any cause.
 Entries accepted only on this condition.
-4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 5, 2019.
-5. All entries must remain on the grounds until 9 p.m. on Saturday, August 10th. Failure
+4. All animals shall be on the grounds prior to 8:00 p.m. on Monday, August 9, 2021.
+5. All entries must remain on the grounds until 9 p.m. on Saturday, August 14th. Failure
 to abide by arrival and departure times will result in loss of premiums and/or awards.
 Cattle may remain on the grounds until Sunday. Security is provided.
 6. A load of bark will be furnished for the exhibitors, when the bark is gone it
@@ -53,14 +53,14 @@ jeans are acceptable.
 11. Ages of all animals must be given and satisfactorily verified if requested.
 12. In case of cattle entered but not exhibited, entrance fee shall be forfeited.
 13. Health requirements: 
-    1.  State Health Regulations in effect at the time of entry shall apply if there is a
+    A.  State Health Regulations in effect at the time of entry shall apply if there is a
 conflict with the following requirements:
         1. A health certificate prepared by your veterinarian shall be required for all
 animals BEFORE stabling is permitted. SUCH CERTIFICATE SHALL BE AVAILABLE
 FOR INSPECTION AT ANY TIME DURING THE SHOW.
-        1.  Vaccination for rabies is required thirty (30) days prior to show.
-        1.  Vaccination for shipping fever is recommended.
-    1.  Animals showing signs, symptoms, suspicions or evidence of any infectious
+        1.  Vaccination for rabies a minimum of thirty (30) days prior to show.
+        2.  Vaccination for shipping fever is recommended.
+    B.  Animals showing signs, symptoms, suspicions or evidence of any infectious
 disease, sickness or disorder- including (but not limited to) mange, warts,
 pinkeye, ringworm, or scabies - shall be barred from the grounds upon arrival
 and/or at any time during the show when such is detected.
@@ -75,7 +75,7 @@ can only be shown in the Beef Show or the Working Steer Show but not both.
 ### PREMIUMS: 
 1. $9.00 = Blue
 1. $7.00 = Red
-1.  $4.00 = White, 
+1. $4.00 = White, 
 
 for the following classes:
 - Fitting Classes Senior and Junior Division
@@ -85,7 +85,7 @@ for the following classes:
 - Steer and Ox Classes *3-*10.
 
 ## BEEF SHOW CLASSES
-Classes are for all recognized beef breeds.
+Classes are for all recognized BEEF breeds.
 
 YOUTH SHOW FITTING CLASSES
 - Senior Division
@@ -102,24 +102,24 @@ YOUTH SHOW FITTING CLASSES
 
 ### BREEDING CLASSES YOUTH and OPEN SHOW
 
-- Junior Heifer Calf (January 1, 2019 to March 31, 2019)
-- Spring Heifer Calf (April 1, 2019 to June 30, 2019)
-- Senior Heifer Calf (September 1, 2018 to October 31, 2018)
-- Winter Heifer Calf (November 1, 2018 to December 31, 2018)
-- Summer Yearling Heifer (July 1, 2018 to August 31, 2018)
-- Spring Yearling Heifer (April 1, 2018 to June 30, 2018)
-- Junior Yearling Heifer (January 1, 2018 to March 31, 2018)
-- Senior Yearling Heifer (September 30, 2017 to December 31, 2017)
-    - For classes 9-10 (Cow with Natural calf born on or after January 1, 2017)
-- Two Year Old Cow & Calf (September 1, 2016 to August 31, 2017)
-- Three Year Old & Over Cow & Calf (Born after September 1, 2016)
+- Junior Heifer Calf (January 1, 2021 to March 31, 2021)
+- Spring Heifer Calf (April 1, 2021 to June 30, 2021)
+- Senior Heifer Calf (September 1, 2020 to October 31, 2020)
+- Winter Heifer Calf (November 1, 2020 to December 31, 2020)
+- Summer Yearling Heifer (July 1, 2020 to August 31, 2020)
+- Spring Yearling Heifer (April 1, 2020 to June 30, 2020)
+- Junior Yearling Heifer (January 1, 2020 to March 31, 2020)
+- Senior Yearling Heifer (September 30, 2019 to December 31, 2019)
+    - For classes 9-10 (Cow with Natural calf born on or after January 1, 2019)
+- Two Year Old Cow & Calf (September 1, 2018 to August 31, 20109)
+- Three Year Old & Over Cow & Calf (Born after September 1, 2018)
 - Junior Champion Female
 - Senior Champion Female
 - Grand Champion Female
 - Youth Grand Champion Over All Breed (Classes 8-15 eligible)
 
 ### OPEN SHOW ONLY
-- Junior Bull Calf (January 1, 2014 to June 30, 2019)
+- Junior Bull Calf (January 1, 2021 to June 30, 2021)
 - Pair of Calves (2 calves from classes 8, 9, 10, 11 or 18)
 - Best two (2) head bred and owned by exhibitor
 - Exhibitor’s Herd, best three (3) head owned by exhibitor
